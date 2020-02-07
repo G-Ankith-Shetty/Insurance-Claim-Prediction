@@ -1,0 +1,25 @@
+1) Importing packages and Loading Data
+2) Checking for missing values and handling missing values
+3) Exploratory Data Analysis
+	i) checking distribution of target variable
+	ii) EDA for numerical variable
+		a) Univariate Analysis
+		b) Bivariate Analysis
+		c) Correlation between numerical variables
+	iii) EDA for categorical variable
+		a) Univariate Analysis
+		b) Bivariate Analysis
+		c) Correlation between categorical variables
+4) Data preprocessing as per EDA
+	i) For numerical variables
+	ii) For categorical variables
+5) Label Encoding / One Hot Encoding
+6) Scaling data
+7) Applying models with SMOTE
+	- Logistic regression
+	- Decision Tree classifier
+	- Random Forest classifier
+	- XGBClassifier
+	- SVM
+
+
